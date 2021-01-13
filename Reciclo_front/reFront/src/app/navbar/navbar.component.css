@@ -1,0 +1,65 @@
+.navbar{
+    background-color: #16B978;    
+}
+
+.navbar a{
+    text-align: center;
+    color: aliceblue;
+    transition: 0.3s;
+}
+
+.navbar a:hover{
+    color: rgb(48, 45, 45);
+    background-color: #16B978;
+}
+
+.navegacao{
+    margin-right: 300px;
+    display: flex;
+    flex-direction: row;
+}
+
+.dropdown-menu{
+    background-color: #16B978;
+}
+
+
+.fa-shopping-cart{
+    color: aliceblue;
+    font-size: 1.65em;
+    cursor: pointer;
+    margin-right: 10px;
+    transition: 0.3s;
+}
+
+.fa-shopping-cart:hover{
+    color: rgb(48, 45, 45);
+}
+
+.fa-cog{
+    color: aliceblue;
+    font-size: 1.65em;
+    cursor: pointer;
+    margin-right: 10px;
+    transition: 0.3s;
+}
+
+.fa-cog:hover{
+    color: rgb(48, 45, 45);
+}
+
+.fa-user-circle{
+    color: aliceblue;
+    font-size: 1.65em;
+    cursor: pointer;
+    margin-right: 10px;
+    transition: 0.3s;
+}
+
+.fa-user-circle:hover{
+    color: rgb(48, 45, 45);
+}
+
+
+
+

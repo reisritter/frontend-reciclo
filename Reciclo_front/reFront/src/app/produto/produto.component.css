@@ -1,0 +1,11 @@
+.container
+{
+  background: gray;
+  height: 2rem;
+}
+
+.row > .col
+{
+
+  height: 2rem;
+}
